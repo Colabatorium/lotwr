@@ -17,7 +17,9 @@ I believe it is.
 
 This is an open invitation to help shape The League of the White Rose with Editorial input.
 
-The work is complete in the sense that it has been writen, however it now requires editing and type checking (spellink, grammer, punctuation, etc)
+The work is complete in the sense that it has been writen, however it now requires editing and type checking (spellink, grammer, punctuation, etc).
+
+Please note the copyright of this work and its edits remains the property of L.D.Tennant.
 
 If you are interested in join this exciting project please contact me lucsan@icepalms.co.uk
 
