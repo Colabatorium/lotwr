@@ -1,7 +1,7 @@
 lotwr
 =====
 
-The League of the White Rose 
+The League of the White Rose
 
 A novel by Lucsan/L.D.Tennant
 
@@ -17,9 +17,9 @@ I believe it is.
 
 This is an open invitation to help shape The League of the White Rose with Editorial input.
 
-The work is complete in the sense that it has been writen, however it now requires editing and type checking (spellink, grammer, punctuation, etc).
+The work is complete in the sense that it has been written, however it now requires editing and type checking (spellink, grammer, punctuation, etc).
 
-Please note the copyright of this work and its edits remains the property of L.D.Tennant.
+Please note the copyright of this work and its edits remains the property of L. D. Tennant.
 
 If you are interested in join this exciting project please contact me lucsan@icepalms.co.uk
 
@@ -29,7 +29,7 @@ Here you can read the most recent version of the book online. If you have pledge
 
 I will then add you to the LOTWR project as an editor and you can 'pull' (download) the master 'branch' (a copy) of the book. This will contain all the chapters.
 
-You need to install GIT on your computer, (help.github.com/articles/set-up-git/) is an excelent resource for this, and (depending on your OS) this is usually as easy as installing any other application.
+You need to install GIT on your computer, (help.github.com/articles/set-up-git/) is an excellent resource for this, and (depending on your OS) this is usually as easy as installing any other application.
 
 Next you pick a suitable place in your computer (ie: folder/directory) to keep the book and clone the master branch.
 
