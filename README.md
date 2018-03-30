@@ -21,7 +21,7 @@ The work is complete in the sense that it has been written, however it now requi
 
 Please note the copyright of this work and its edits remains the property of L. D. Tennant.
 
-If you are interested in join this exciting project please contact me lucsan@icepalms.co.uk
+If you are interested in join this exciting project please contact me lucsan@zencorp.co.uk
 
 Hints and Tips
 
